@@ -7,8 +7,9 @@ Lindsey katherine Camargo Beltran - 20172020037
 
 Brayan Esteban Leon Pinto - 20141001002
 
-## Planteamiento del problema
+## Proposito del sistema
 
+Se desarrollará un aplicativo que permita por medio de una interfaz gráfica realizar la compra descrptiva de unos pasteles, y estos se mostraran al pastelero para que este pueda realizar el mismo para la fecha solicitada por el cliente y con las respectivas especificaciones.
 
 ## Roles
 
