@@ -48,3 +48,4 @@ Como cliente necesito ver mi factura de compra para asegurar que el pago fue cor
 
 ## Diagramas de secuencia 
 
+![Realizar la compra](https://user-images.githubusercontent.com/54810355/108276641-2063e880-7146-11eb-9c4a-5d7a92890739.jpg)
