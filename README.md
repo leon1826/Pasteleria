@@ -38,7 +38,7 @@ Como cliente necesito ver mi factura de compra para asegurar que el pago fue cor
 ## Historias de usuario
   
 
-  |   Historias de usuario  |  
+    |   | Historias de usuario |   |  
 -- | -- | -- | -- | --
 ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado | Criterio de aceptación | Complejidad
 1 | Usuario   cliente | Registrarme   en la pagina | Poder   realizar un pedido | Datos   completos | Baja
@@ -54,6 +54,7 @@ ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado |
 11 | Usuario-administrador | Consultar pedidos | Deseo obtener información del   pedido mas cercano asi como la lista de pedidos siguientes | Pedidos organizados por fecha   de entrega | Alta
 12 | Usuario-Admnistrador | Cambiar estado | Deseo cambiar el estado de un pedido como entregado   , en proceso, etc | Pedidos deben estar previamente registrados, para   la correcta actualización | Alta
 13 | Usuario -Administrador | Consultar historial | Deseo obtener el historial de   todos los pedidos filtrado por fecha | Pedidos que hayan sido   entregado satisfactoriamente | Media
+
 
 ## Prototipos de pantalla 
 
