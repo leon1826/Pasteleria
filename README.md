@@ -12,7 +12,8 @@ Brayan Esteban Leon Pinto - 20141001002
 Se desarrollará un aplicativo que permita por medio de una interfaz gráfica realizar la compra descrptiva de unos pasteles, y estos se mostraran al pastelero para que este pueda realizar el mismo para la fecha solicitada por el cliente y con las respectivas especificaciones.
 
 ## Roles
-
+Usuario-Cliente: persona  que interactua en la aplicacion para generar un pedido de torta con caracteristicas especificas
+Usuario-Administrador: Pastelero o administrador que gestiona el estado de los pedidos asi como la consulta de los mismos
 
 ## Requerimientos
 
@@ -39,6 +40,8 @@ Como cliente necesito ver mi factura de compra para asegurar que el pago fue cor
 
 ## Prototipos de pantalla 
 
+## Tiempo estimado 
+![Tabla](https://user-images.githubusercontent.com/54810276/95878667-187cdd80-0d3b-11eb-8fa2-524b0d21198b.PNG)
 
 ## Diagramas de casos de usos
 ![image](https://user-images.githubusercontent.com/54810276/108355928-702fc780-71b9-11eb-8e0d-59b6059a3469.png)
