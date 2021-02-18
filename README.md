@@ -60,6 +60,26 @@ ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado |
 
 ## Tiempo estimado 
 ![Tabla](https://user-images.githubusercontent.com/54810276/95878667-187cdd80-0d3b-11eb-8fa2-524b0d21198b.PNG)
+Componente | Tipo de Componente | Nivel de   complejidad | Puntos de función
+-- | -- | -- | --
+Login | Entrada externa | Bajo | 3
+Actualización usuario | Entrada   externa | Bajo | 3
+Registrar pedido | Archivo lógico interno | Alta | 10
+Consultar pedido | Consulta externa | Medio | 6
+Consultar historial   de pedidos | Salida externa | Alta | 15
+Generar pedido | Archivo   externo interfaz-lógico interno | Alta | 10
+Modificar pedido | Entrada externa | Alta | 6
+Consultar pedidos pendientes | Salida   externa | Alta | 15
+Mostrar pedidos   pendientes | Archivo externo   interfaz | Alta | 10
+Pago pedido | Salida   externa | Alta | 15
+Confirmación pedido | Salida externa | Media | 10
+
+- A partir de la tabla, el punto de funcion no ajustado es de 103
+- Con el ajuste del 5% se aproxima a 108.15
+- Suponiendo que el equipo toma por punto de funcion 5 horas 
+- El proyecto tomaria 515 horas
+- Teniendo en cuenta que son 6 horas productivas el proyecto tomaria 86 dias para ser realizado
+- Si tomamos en cuenta que se trabajan 5 dias por semana, al equipo le tomaria 17,5 semanas por lo tanto poco mas de 4 meses
 
 ## Diagramas de casos de usos
 
