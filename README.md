@@ -36,7 +36,24 @@ Como pastelero puedo marcar un pedido como entregado para descartarlo de la list
 Como cliente necesito ver mi factura de compra para asegurar que el pago fue correcto
 
 ## Historias de usuario
+  
 
+  |   | Historias de usuario |   |  
+-- | -- | -- | -- | --
+ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado | Criterio de aceptación | Complejidad
+1 | Usuario   cliente | Registrarme   en la pagina | Poder   realizar un pedido | Datos   completos | Baja
+2 | Usuario-cliente-administrador | Login | Ingresar a la pagina | Datos registrados previamente | Baja
+3 | Usuario-cliente- administrador | Logout | Salir de la pagina   satisfactoriamente | Haber hecho login previo | Baja
+4 | Usuario-Cliente | Actualizar datos | Tener datos actuales del usaurio | Correo electrónico validado | Baja
+5 | Usuario-Cleinte | Generar pedido | Crear un pedido de torta con características   especificas | Todas las características y   fecha deben estar completas, asi mismo que se haga efectivo el pago | Alta
+6 | Usuario-cliente | Pagar pedido-torta | Pagar la torta para confirmar el pedido y que   este sea registrado en la base de datos | Fecha previa aceptable, pasarela de pago | Alta
+7 | Usuario cliente | Consultar pedido | Obtener información del pedido   previamente realizado , como fecha y hora de entrega | Usuario con pedido previamente   registrado | Media
+8 | Usuario cliente | Modificar pedido | Modificar fecha, hora y características del pedido | Antelación de 3 dias hábiles para la entrega | Alta
+9 | Usuario cliente | Cancelar pedido | Cancelar el pedido | Antelación de 4 dias hábiles para   fecha pactada de entrega, segenenra sobrecargo | Alta
+10 | Usuario-clieente | Consultar historial | Obetener información de pedidos anteriores   relacionados con el cliente | Usuario previamente registrado y con relación a   pedidos | Media
+11 | Usuario-administrador | Consultar pedidos | Deseo obtener información del   pedido mas cercano asi como la lista de pedidos siguientes | Pedidos organizados por fecha   de entrega | Alta
+12 | Usuario-Admnistrador | Cambiar estado | Deseo cambiar el estado de un pedido como entregado   , en proceso, etc | Pedidos deben estar previamente registrados, para   la correcta actualización | Alta
+13 | Usuario -Administrador | Consultar historial | Deseo obtener el historial de   todos los pedidos filtrado por fecha | Pedidos que hayan sido   entregado satisfactoriamente | Media
 
 ## Prototipos de pantalla 
 
