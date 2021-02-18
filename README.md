@@ -38,7 +38,7 @@ Como cliente necesito ver mi factura de compra para asegurar que el pago fue cor
 ## Historias de usuario
   
 
-  |   | Historias de usuario |   |  
+  |   Historias de usuario  |  
 -- | -- | -- | -- | --
 ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado | Criterio de aceptación | Complejidad
 1 | Usuario   cliente | Registrarme   en la pagina | Poder   realizar un pedido | Datos   completos | Baja
