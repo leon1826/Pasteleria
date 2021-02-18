@@ -62,10 +62,9 @@ ID. de la historia | Rol | Característica / Funcionalidad | Razón /Resultado |
 ![Tabla](https://user-images.githubusercontent.com/54810276/95878667-187cdd80-0d3b-11eb-8fa2-524b0d21198b.PNG)
 
 ## Diagramas de casos de usos
-![image](https://user-images.githubusercontent.com/54810276/108355928-702fc780-71b9-11eb-8e0d-59b6059a3469.png)
 
-![image](https://user-images.githubusercontent.com/54810276/108355431-cf410c80-71b8-11eb-81de-dec7fce963b4.png)
-
+![image](https://user-images.githubusercontent.com/54810276/108358560-dc5ffa80-71bc-11eb-8161-5fc778b1b35e.png)
+![image](https://user-images.githubusercontent.com/54810276/108358578-e3870880-71bc-11eb-8d6a-d786fcdd2842.png)
 ## Diagramas de actividades 
 
 
