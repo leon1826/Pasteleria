@@ -41,6 +41,8 @@ Como cliente necesito ver mi factura de compra para asegurar que el pago fue cor
 
 
 ## Diagramas de casos de usos
+![image](https://user-images.githubusercontent.com/54810276/108355171-783b3780-71b8-11eb-9e75-160b0fb5bb61.png)
+
 
 
 ## Diagramas de actividades 
