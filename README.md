@@ -37,6 +37,11 @@ Como pastelero puedo marcar un pedido como entregado para descartarlo de la list
 
 Como cliente necesito ver mi factura de compra para asegurar que el pago fue correcto
 
+## Board del proyecto 
+https://trello.com/b/vwescwPw/tareas
+
+
+
 ## Historias de usuario
   
 
